@@ -1,0 +1,6 @@
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\bin\Debug\WelcomeToTheTeam.exe.config
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\bin\Debug\WelcomeToTheTeam.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\bin\Debug\WelcomeToTheTeam.pdb
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\obj\Debug\WelcomeToTheTeam.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\obj\Debug\WelcomeToTheTeam.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 3\WelcomeToTheTeam\WelcomeToTheTeam\obj\Debug\WelcomeToTheTeam.pdb
